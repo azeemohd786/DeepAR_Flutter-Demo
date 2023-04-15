@@ -5,7 +5,8 @@ Build SnapChat/Face Filter App with Flutter in DeepAR ☄
 DeepAR - The sample project source code is developed for DeepAR demo purpose. The explanation about this source, how to build from scratch, generate License Key & code brief is explained in the youtube : 
 
 Few sample snapshot available in this face filter app,
-![oie_0DSrAGhtwtBk](https://user-images.githubusercontent.com/37884888/232224110-22f557cd-5a93-45a4-a469-43c70df9309d.png)
+
+![oie_0DSrAGhtwtBk copy](https://user-images.githubusercontent.com/37884888/232224197-a7d70431-cad0-4669-98fe-2efc50bdb308.png)
 
 
 
