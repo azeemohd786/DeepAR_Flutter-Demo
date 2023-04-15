@@ -6,8 +6,7 @@ DeepAR - The sample project source code is developed for DeepAR demo purpose. Th
 
 Few sample snapshot available in this face filter app,
 
-![oie_0DSrAGhtwtBk copy](https://user-images.githubusercontent.com/37884888/232224197-a7d70431-cad0-4669-98fe-2efc50bdb308.png)
-
+![oie_0DSrAGhtwtBk](https://user-images.githubusercontent.com/37884888/232224414-6925a3fb-5bd9-4c76-a990-79f8adde832d.png)
 
 
 Package pub.dev : https://pub.dev/packages/rwa_deep_ar
